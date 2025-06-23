@@ -1,11 +1,10 @@
-package srimani7.apps.bmi.calculator
+package maenlael.apps.bmi.calculator.pam
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.core.view.WindowCompat
-import srimani7.apps.bmi.calculator.ui.App
-import srimani7.apps.bmi.calculator.ui.theme.BmiTheme
+import maenlael.apps.bmi.calculator.pam.theme.BmiTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

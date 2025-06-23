@@ -12,7 +12,7 @@
         android:theme="@style/Theme.DailyUI"
         tools:targetApi="31">
         <activity
-            android:name="srimani7.apps.bmi.calculator.MainActivity"
+            android:name="maenlael.apps.bmi.calculator.pam.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.DailyUI"
             android:windowSoftInputMode="adjustResize">

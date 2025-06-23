@@ -1,4 +1,4 @@
-package srimani7.apps.bmi.calculator.ui.theme
+package maenlael.apps.bmi.calculator.pam.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

@@ -1,4 +1,4 @@
-package srimani7.apps.calculator
+package manlael.apps.calculator.pam
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

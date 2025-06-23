@@ -1,4 +1,4 @@
-package srimani7.apps.bmi.calculator.ui.theme
+package maenlael.apps.bmi.calculator.pam.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

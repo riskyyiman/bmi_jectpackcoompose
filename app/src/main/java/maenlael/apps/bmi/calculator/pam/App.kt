@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class, ExperimentalMaterial3Api::class)
 
-package srimani7.apps.bmi.calculator.ui
+package maenlael.apps.bmi.calculator.pam
 
 import androidx.compose.animation.animateContentSize
 import androidx.compose.foundation.layout.*
@@ -15,9 +15,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import srimani7.apps.bmi.calculator.BmiViewModel
-import srimani7.apps.bmi.calculator.format
-import srimani7.apps.bmi.calculator.ui.theme.BmiTheme
+import maenlael.apps.bmi.calculator.pam.theme.BmiTheme
 
 @Composable
 fun App(viewModel: BmiViewModel = viewModel()) {

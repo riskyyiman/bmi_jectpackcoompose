@@ -1,4 +1,4 @@
-package srimani7.apps.calculator
+package manlael.apps.calculator.pam
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
